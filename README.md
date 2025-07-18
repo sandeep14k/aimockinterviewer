@@ -1,6 +1,6 @@
-# PrepWise: AI-Powered Mock Interview Platform
+# AIMockInterviewer : AI-Powered Mock Interview Platform
 
-PrepWise is an AI-powered platform designed to help users prepare for job interviews through personalized mock interview experiences and instant feedback. It leverages Google Gemini for AI question generation and Vapi.ai for real-time voice interviews.
+AIMockInterviewer is an AI-powered platform designed to help users prepare for job interviews through personalized mock interview experiences and instant feedback. It leverages Google Gemini for AI question generation and Vapi.ai for real-time voice interviews.
 
 ## Features
 

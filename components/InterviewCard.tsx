@@ -57,7 +57,7 @@ const InterviewCard = async ({
 
           {/* Cover Image */}
           <Image
-            src={"/placeholder.svg"}
+            src={"/c.jpg"}
             alt="cover-image"
             width={90}
             height={90}
